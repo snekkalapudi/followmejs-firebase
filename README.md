@@ -16,8 +16,11 @@ Now open the presenation remote : http://followmejs.appspot.com/r in any browser
 
 
 Scan here to open this presenation remote in your mobile:
-<img src="http://chart.apis.google.com/chart?chs=200x200&cht=qr&chl=http%3A%2F%2Ffollowmejs.appspot.com/r" width="200" height="200" alt="" />
+<img align="left" src="http://chart.apis.google.com/chart?chs=200x200&cht=qr&chl=http%3A%2F%2Ffollowmejs.appspot.com/r" width="200" height="200" alt="" />
 
+<br/>
+<br/>
+<br/>
 
 Just in case, if you are experencing any glitches, someone else might be accessing the same presentation remote.
 
