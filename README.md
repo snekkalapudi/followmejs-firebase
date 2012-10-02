@@ -4,7 +4,7 @@ followmejs-firebase
 Followmejs using firebase on Google App Engine.
 
 
-Here is my link for Box Hackathon, where I develped this: http://redefiningwork.hackathon.io/teams/view/568
+Here is my link for Box Hackathon, where I develped this: <a href="http://redefiningwork.hackathon.io/teams/view/568" target="_blank">Followmejs</a>
 
 
 If you wanna try this:
