@@ -6,8 +6,7 @@ Followmejs using firebase on Google App Engine.
 
 Here is my link for Box Hackathon, where I develped this: <a href="http://redefiningwork.hackathon.io/teams/view/568" target="_blank">Followmejs</a>
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/8mRrbkbTZFc" frameborder="0" allowfullscreen></iframe>
-
+<a href="http://www.youtube.com/watch?v=8mRrbkbTZFc" target="_blank">Here is the video for this demonstration</a>
 
 If you wanna try this:
 
