@@ -1,0 +1,19 @@
+application: followmejs
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /stylesheets
+  static_dir: stylesheets
+
+- url: /js
+  static_dir: js
+ 
+- url: /.*
+  script: followmejs.app
+
+libraries:
+- name: jinja2
+  version: latest
