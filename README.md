@@ -10,9 +10,9 @@ Here is my link for Box Hackathon, where I develped this: <a href="http://redefi
 
 If you wanna try this:
 
-Open http://followmejs.appspot.com/ in as many browsers and devices and possible.
+Open http://firebase-followmejs.uc.r.appspot.com/ in as many browsers and devices and possible.
 
-Now open the presenation remote : http://followmejs.appspot.com/r in any browser or mobile and swipe or click next and every one will just follow you.
+Now open the presenation remote : http://firebase-followmejs.uc.r.appspot.com/r in any browser or mobile and swipe or click next and every one will just follow you.
 
 
 Scan here to open this presenation remote in your mobile:
